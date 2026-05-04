@@ -31,12 +31,14 @@ Teaching
   
 Work experience
 ======
+* Summer 2025: Amazon - Applied Science Internship - Applied game theory principles to create a framework for multi-agent collaboration. 
 * Summer 2021: Flatiron Health - Software Engineering Internship
 * Summer 2020: Facebook - Software Engineering Internship
 * Summer 2019: Caltech - Summer Undergraduate Research Fellowship with Prof. Alireza Marandi
  
 Talks and Visits
 ======
+* Spotlight talk at Simons Workshop on Agency in Collaborative Learning [(Workshop)](https://simons.berkeley.edu/workshops/agency-collaborative-learning), Berkeley, California, April 2026 - [(Talk Video)](https://www.youtube.com/live/zlOoLzuI_BI?feature=share)
 * Accepted participant (25% acceptance rate) to UM6P Winter School on Data Economics [(Winter School)](https://mcgt.um6p.ma/en/seminars-conferences/winter-days), Rabat, Morocco, January 2025
 * Poster presentation at Conference on Neural Information Processing Systems [(NeurIps)](https://neurips.cc/), Vancouver, Canada, December 2024
 * Oral presentation at Conference on Algorithmic Decision Theory [(ADT)](https://preflib.github.io/adt2024/), New Jersey, USA, October 2024
