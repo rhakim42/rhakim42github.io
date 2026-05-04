@@ -16,13 +16,17 @@ Education
 
 Publications
 ======
-**The Fairness-Quality Trade-off in Clustering** - [arXiv](https://arxiv.org/abs/2408.10002)  
-Rashida Hakim, Ana-Andreea Stoica, Christos Papadimitriou, Mihalis Yannakakis  
-*NeurIps 2024, Main Track (Poster)*
+**Fair Data-Exchange Mechanisms** - [arXiv](https://arxiv.org/abs/2602.11417)  
+Rashida Hakim, Christos Papadimitriou, Mihalis Yannakakis  
+*In Submission*
 
 **Swim till You Sink: Computing the Limit of a Game** - [arXiv](https://arxiv.org/abs/2408.11146)  
 Rashida Hakim, Jason Milionis, Christos Papadimitriou, Georgios Piliouras  
 *SAGT 2024, Best Paper Award*
+
+**The Fairness-Quality Trade-off in Clustering** - [arXiv](https://arxiv.org/abs/2408.10002)  
+Rashida Hakim, Ana-Andreea Stoica, Christos Papadimitriou, Mihalis Yannakakis  
+*NeurIps 2024, Main Track (Poster)*
 
 Teaching
 ======
