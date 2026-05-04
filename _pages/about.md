@@ -12,7 +12,7 @@ Hi! I'm Rashida Hakim, a fourth-year Computer Science PhD student at Columbia Un
 Publications
 ======
 **Fair Data-Exchange Mechanisms** - [arXiv](https://arxiv.org/abs/2602.11417)  
-Rashida Hakim, Christos Papadimitriou, Mihalis Yannakakis
+Rashida Hakim, Christos Papadimitriou, Mihalis Yannakakis  
 *In Submission*
 
 **Swim till You Sink: Computing the Limit of a Game** - [arXiv](https://arxiv.org/abs/2408.11146)  
